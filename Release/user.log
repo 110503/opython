@@ -1,0 +1,11 @@
+﻿  user.cpp
+  opython.cpp
+c:\python37-32\include\pyconfig.h(361): warning C4005: 'HAVE_ROUND': macro redefinition
+  opython.cpp(2): note: see previous definition of 'HAVE_ROUND'
+  OpenHoldemFunctions.cpp
+OpenHoldemFunctions.cpp(157): warning C4229: anachronism used: modifiers on data are ignored
+  Generating Code...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1193,5): warning MSB8030: The linker switch "Minimum Required Version" requires "SubSystem" to be set.  Without "SubSystem", the "Minimum Required Version" would not be passed to linker and could prevent to the output binary from running on older Operating Systems.
+     Creating library C:\Users\kcrot\Downloads\opython-011-011-branch\opython-011-011-branch\Release\user.lib and object C:\Users\kcrot\Downloads\opython-011-011-branch\opython-011-011-branch\Release\user.exp
+  user.vcxproj -> C:\Users\kcrot\Downloads\opython-011-011-branch\opython-011-011-branch\Release\user.dll
+  user.vcxproj -> C:\Users\kcrot\Downloads\opython-011-011-branch\opython-011-011-branch\Release\user.pdb (Full PDB)
